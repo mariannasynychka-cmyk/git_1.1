@@ -13,7 +13,7 @@
             Console.WriteLine($"Сума: {sum}");
 
             Console.WriteLine("Please write first number:");
-            
+            double num1 = Convert.ToDouble(Console.ReadLine());
         }
         
     }
