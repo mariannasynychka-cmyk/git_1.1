@@ -11,6 +11,9 @@
             int b = 10;
             int sum = a + b;
             Console.WriteLine($"Сума: {sum}");
+
+            Console.WriteLine("Please write first number:");
+            
         }
         
     }
